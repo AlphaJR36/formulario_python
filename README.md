@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align=center>AlphaJR36/portfolio_python001</h3>
+<h3 align=center>AlphaJR36/portfolio_python01</h3>
 
 ## 🍭 | About
 
